@@ -3,9 +3,8 @@
 #### I'm a CSer studying in Hangzhou, Zhejiang.
 
 - 🏢 I'm currently studing at **Hangzhou Dianzi University**
-- ⚙️ I use daily: `.python`, `.C/C++`, `.html`
+- ⚙️ I use daily: `.python`, `.C/C++`
 - 🌱 Learning all about **LLM Safety**
 - 📫 Reach me: [github.io](https://wangweiliu.github.io/)
 - ⚡️ Fun fact: I'm fund of playing badminton
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Wangweiliu.Wangweiliu&left_text=My%20Page%20Visitors)
+- 📧 Email：22070125@hdu.edu.cn
